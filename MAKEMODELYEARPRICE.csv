@@ -1,0 +1,165 @@
+year_adj,make,model,price_adj(0-1)
+0,Chevrolet,Corvette,$0.68
+1,Chevrolet,Corvette,$0.53
+1,Cadillac,Fleetwood,$0.89
+2,Chevrolet,Corvette,$0.53
+2,Ford,Thunderbird,$0.57
+3,Chevrolet,Corvette,$0.60
+4,Chevrolet,Corvette,$0.59
+4,BMW,300,$0.20
+5,Chevrolet,Corvette,$0.65
+5,Ford,Thunderbird,$0.61
+6,Austin,Mini,$0.24
+6,Chevrolet,Corvette,$0.69
+7,Chevrolet,Corvair,$0.35
+7,Chevrolet,Corvette,$0.68
+7,Fairthorpe,Rockette,$0.17
+8,Austin,Mini Cooper,$0.30
+8,Studebaker,Avanti,$0.95
+8,Pontiac,Tempest,$0.50
+8,Chevrolet,Corvette,$0.68
+9,Pontiac,Grand Prix,$0.68
+9,Chevrolet,Corvette,$0.69
+9,Studebaker,Avanti,$0.95
+9,Buick,Special,$0.40
+10,Austin,Mini,$0.23
+10,Austin,Mini Cooper S,$0.29
+10,Ford,E-Series,$0.35
+10,Studebaker,Avanti,$0.75
+10,Pontiac,Grand Prix,$0.59
+10,Chevrolet,Corvair 500,$0.34
+10,Chevrolet,Corvette,$0.68
+11,Chevrolet,Corvette,$0.67
+11,Ford,Mustang,$0.39
+11,Ford,Galaxie,$0.42
+11,Pontiac,GTO,$0.42
+11,Pontiac,LeMans,$0.58
+11,Pontiac,Bonneville,$0.60
+11,Pontiac,Grand Prix,$0.60
+11,Plymouth,Fury,$0.63
+11,Studebaker,Avanti,$0.74
+11,Austin,Mini Cooper,$0.29
+12,Ford,Fairlane,$0.40
+12,Ford,Mustang,$0.39
+12,Ford,Thunderbird,$0.73
+12,Pontiac,GTO,$0.49
+12,Pontiac,Grand Prix,$0.60
+12,Pontiac,LeMans,$0.42
+12,Pontiac,Bonneville,$0.30
+12,Pontiac,Tempest,$0.37
+12,Volkswagen,Beetle,$0.26
+12,Chevrolet,Corvette,$0.68
+13,Ford,Galaxie,$0.41
+13,Ford,Mustang,$0.42
+13,Ford,Falcon,$0.33
+13,Pontiac,Grand Prix,$0.60
+13,Pontiac,GTO,$0.47
+13,Chevrolet,Corvette,$0.66
+14,Pontiac,Firebird,$0.46
+14,Pontiac,Grand Prix,$0.61
+14,Pontiac,GTO,$0.47
+14,Chevrolet,Corvette,$0.66
+14,Ford,Thunderbird,$0.70
+15,Pontiac,Firebird,$0.45
+15,Pontiac,GTO,$0.46
+15,Pontiac,Grand Prix,$0.58
+15,Ford,Mustang,$0.41
+15,Chevrolet,Corvette,$0.65
+16,Pontiac,Firebird,$0.51
+16,Pontiac,Grand Prix,$0.61
+16,Pontiac,GTO,$0.45
+16,Chevrolet,Corvette,$0.64
+16,Ford,Mustang,$0.42
+17,Chevrolet,Corvette,$0.66
+17,Pontiac,GTO,$0.44
+17,Pontiac,Grand Prix,$0.56
+17,Ford,Mustang,$0.35
+19,Chevrolet,Corvette,$0.66
+19,Chevrolet,Camaro,$0.34
+19,Pontiac,GTO,$0.39
+19,Pontiac,Grand Prix,$0.53
+19,Ford,Thunderbird,$0.77
+19,Ford,Mustang,$0.35
+20,Pontiac,Grand Prix,$0.52
+20,Pontiac,GTO,$0.40
+20,Ford,Mustang,$0.33
+20,Chevrolet,Camaro,$0.33
+20,Chevrolet,Monte Carlo,$0.37
+20,Chevrolet,Corvette,$0.67
+21,Chevrolet,Camaro,$0.33
+21,Ford,Mustang,$0.33
+21,Pontiac,GTO,$0.39
+21,Pontiac,Grand Prix,$0.52
+22,Chevrolet,Camaro,$0.33
+22,Chevrolet,Corvette,$0.67
+22,Chevrolet,Monza,$0.30
+22,Pontiac,Grand Prix,$0.49
+23,Pontiac,Grand Prix,$0.48
+23,Chevrolet,Camaro,$0.32
+23,Toyota,Celica,$0.37
+23,Plymouth,Volare,$0.29
+23,Dodge,Aspen,$0.29
+24,Chevrolet,Camaro,$0.39
+24,Pontiac,Grand Prix,$0.42
+24,Ford,Thunderbird,$0.64
+25,Chevrolet,Corvette,$0.81
+25,Chevrolet,Camaro,$0.35
+25,Toyota,Celica,$0.42
+25,Plymouth,Horizon,$0.33
+25,Dodge,Omni,$0.33
+25,Pontiac,Grand Prix,$0.45
+26,Nissan,280ZX,$0.77
+26,Chevrolet,LUV,$0.41
+26,Chevrolet,Camaro,$0.37
+26,Ford,Mustang,$0.33
+26,Buick,Riviera,$0.90
+26,Pontiac,Grand Prix,$0.45
+27,Ford,Mustang,$0.40
+27,Ford,Thunderbird,$0.49
+27,Chevrolet,Citation,$0.40
+27,Chevrolet,Camaro,$0.36
+27,Honda,Civic,$0.32
+27,Pontiac,Grand Prix,$0.43
+28,Plymouth,Reliant,$0.35
+28,Dodge,Aries,$0.35
+28,Chevrolet,Camaro,$0.38
+28,Pontiac,Grand Prix,$0.43
+29,Pontiac,Grand Prix,$0.41
+29,Chevrolet,Camaro,$0.37
+29,Toyota,Celica,$0.39
+30,Ford,Thunderbird,$0.54
+30,Ford,Mustang,$0.40
+30,Pontiac,6000,$0.49
+30,Pontiac,Sunbird,$0.39
+30,Pontiac,Grand Prix,$0.47
+30,Toyota,Celica,$0.48
+30,Chevrolet,Caprice,$0.44
+30,Honda,Accord,$0.47
+30,Renault,Alliance,$0.29
+30,Mazda,626,$0.44
+30,Mazda,RX-7,$0.58
+30,Porsche,944,$1.00
+31,Pontiac,1000,$0.27
+31,Pontiac,6000,$0.48
+31,Pontiac,Sunbird,$0.38
+31,Pontiac,Bonneville,$0.52
+31,Pontiac,Firebird,$0.47
+31,Pontiac,Parisienne,$0.56
+31,Pontiac,Grand Prix,$0.49
+31,Pontiac,Fiero,$0.43
+31,Pontiac,Firefly,$0.27
+31,Ford,Bronco II,$0.55
+31,Ford,Thunderbird,$0.58
+31,Ford,EXP,$0.38
+31,Ford,Ranger,$0.30
+31,Ford,Escort,$0.34
+31,Ford,Tempo,$0.44
+31,Ford,LTD,$0.52
+31,Ford,F250,$0.40
+31,Ford,F150,$0.36
+31,Ford,E250,$0.55
+31,Ford,LTD Crown Victoria,$0.55
+31,Ford,Bronco,$0.59
+31,Ford,E150,$0.51
+31,Ford,Mustang,$0.37
+31,Subaru,Brat,$0.33
